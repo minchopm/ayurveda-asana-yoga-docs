@@ -2,7 +2,7 @@
 
 Meal and daily-routine planning with traditional Ayurvedic context, nutrient data and a yoga practice library.
 
-[Official product website](https://ayurveda-asana-yoga.wise-eating.com/) · [App Store listing](https://apps.apple.com/us/app/ayurveda-asana-yoga/id6800370073)
+[Official product website](https://ayurveda-asana-yoga.wise-eating.com/) · [App Store listing](https://apps.apple.com/us/app/ayurveda-asana-yoga/id6800370073) · [Side-by-side comparisons](https://ayurveda-asana-yoga.wise-eating.com/compare) · [Guides & workflows](https://ayurveda-asana-yoga.wise-eating.com/guides) · [Full LLM reference (llms-full.txt)](https://ayurveda-asana-yoga.wise-eating.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 

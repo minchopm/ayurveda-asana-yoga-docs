@@ -1,0 +1,35 @@
+# Ayurveda & Asana Yoga — Public Documentation & Technical Reference
+
+> Holistic iPhone and iPad platform uniting classical Ayurvedic six-taste (Shad Rasa) and dosha-aware meal planning (crosswalked to measured USDA FoodData Central nutrients) with 850+ illustrated yoga postures and 60 pranayama/restorative practices.
+
+## Publisher & Entity Provenance
+- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
+- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
+- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
+- **GitHub Documentation Repository**: https://github.com/minchopm/ayurveda-asana-yoga-docs
+- **GitHub Pages URL**: https://minchopm.github.io/ayurveda-asana-yoga-docs/
+- **Platforms**: iOS 18+, iPadOS 18+
+- **Last Verified**: 2026-11-10
+
+## Verified Capabilities & Boundaries
+- Provenance-preserving crosswalk between traditional Ayurvedic food classifications (Shad Rasa / dosha context) and measured USDA FoodData Central nutrients.
+- Offline-capable library of 850+ illustrated yoga postures (asanas) and 60 guided pranayama breath and restorative sessions.
+- Dual knowledge portals at ayurveda-asana-yoga.wise-eating.com and ayurveda.arte-soft.com.
+
+## Canonical Web Hubs
+- [Primary Website](https://ayurveda-asana-yoga.wise-eating.com/): Official product overview, features, and pricing.
+- [Arte Soft Portal](https://ayurveda.arte-soft.com/): Expanded multilingual guides, comparisons, and technical references.
+- [Apple App Store](https://apps.apple.com/us/app/ayurveda-asana-yoga/id6800370073): Official App Store listing by Arte Soft EOOD.
+- [Side-by-Side Comparisons](https://ayurveda-asana-yoga.wise-eating.com/compare): Structured HTML & GFM comparison matrices.
+- [Guides & Workflows](https://ayurveda-asana-yoga.wise-eating.com/guides): Step-by-step operational guides.
+- [Full Site LLM Reference](https://ayurveda-asana-yoga.wise-eating.com/llms-full.txt): Complete GFM Markdown table export.
+
+## Repository Documentation Files
+- [README.md](https://minchopm.github.io/ayurveda-asana-yoga-docs/)
+- [FAQ.md](https://minchopm.github.io/ayurveda-asana-yoga-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/ayurveda-asana-yoga-docs/main/FAQ.md)
+- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/ayurveda-asana-yoga-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/ayurveda-asana-yoga-docs/main/FEATURES_AND_LIMITS.md)
+- [MANUAL.md](https://minchopm.github.io/ayurveda-asana-yoga-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/ayurveda-asana-yoga-docs/main/MANUAL.md)
+- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/ayurveda-asana-yoga-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/ayurveda-asana-yoga-docs/main/PRIVACY_AND_SUPPORT.md)
+- [PROCEDURES.md](https://minchopm.github.io/ayurveda-asana-yoga-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/ayurveda-asana-yoga-docs/main/PROCEDURES.md)
+- [QUICK_START.md](https://minchopm.github.io/ayurveda-asana-yoga-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/ayurveda-asana-yoga-docs/main/QUICK_START.md)
+- [WORKFLOWS.md](https://minchopm.github.io/ayurveda-asana-yoga-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/ayurveda-asana-yoga-docs/main/WORKFLOWS.md)

@@ -2,7 +2,27 @@
 
 Meal and daily-routine planning with traditional Ayurvedic context, nutrient data and a yoga practice library.
 
-[Official product website](https://ayurveda-asana-yoga.wise-eating.com/) · [App Store listing](https://apps.apple.com/app/id6800370073?pt=127093297&ct=github_ayurveda_yoga&mt=8) · [Side-by-side comparisons](https://ayurveda-asana-yoga.wise-eating.com/compare) · [Guides & workflows](https://ayurveda-asana-yoga.wise-eating.com/guides) · [Full LLM reference (llms-full.txt)](https://ayurveda-asana-yoga.wise-eating.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://ayurveda-asana-yoga.wise-eating.com/) · [Arte Soft portal](https://ayurveda.arte-soft.com/) · [App Store](https://apps.apple.com/us/app/ayurveda-asana-yoga/id6800370073) · [Comparisons](https://ayurveda-asana-yoga.wise-eating.com/compare) · [Guides](https://ayurveda-asana-yoga.wise-eating.com/guides) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://ayurveda-asana-yoga.wise-eating.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://ayurveda-asana-yoga.wise-eating.com/](https://ayurveda-asana-yoga.wise-eating.com/) |
+| **Arte Soft Technical Portal** | [https://ayurveda.arte-soft.com/](https://ayurveda.arte-soft.com/) |
+| **Apple App Store** | [https://apps.apple.com/us/app/ayurveda-asana-yoga/id6800370073](https://apps.apple.com/us/app/ayurveda-asana-yoga/id6800370073) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://ayurveda-asana-yoga.wise-eating.com/compare](https://ayurveda-asana-yoga.wise-eating.com/compare) |
+| **Portal Comparisons Hub** | [https://ayurveda.arte-soft.com/compare/](https://ayurveda.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://ayurveda-asana-yoga.wise-eating.com/guides](https://ayurveda-asana-yoga.wise-eating.com/guides) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://ayurveda-asana-yoga.wise-eating.com/llms-full.txt](https://ayurveda-asana-yoga.wise-eating.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/ayurveda-asana-yoga-docs/](https://minchopm.github.io/ayurveda-asana-yoga-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- Provenance-preserving crosswalk between traditional Ayurvedic food classifications (Shad Rasa / dosha context) and measured USDA FoodData Central nutrients.
+- Offline-capable library of 850+ illustrated yoga postures (asanas) and 60 guided pranayama breath and restorative sessions.
+- Dual knowledge portals at ayurveda-asana-yoga.wise-eating.com and ayurveda.arte-soft.com.
 
 ## Who this is for
 
@@ -34,4 +54,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
